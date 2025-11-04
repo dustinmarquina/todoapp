@@ -1,5 +1,12 @@
 # Todo App
 
+DEMO
+
+
+https://github.com/user-attachments/assets/29bc44c0-f972-4f3b-be9b-564ba381508a
+
+
+
 A Flutter todo application with local state management and offline storage capabilities.
 
 ## Features
